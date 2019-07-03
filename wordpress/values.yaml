@@ -1,0 +1,6 @@
+pvc:
+  storageClassName: netapp-file
+
+mysql:
+  pvc:
+    storageClassName: netapp-file
